@@ -139,4 +139,4 @@ with tab2:
         """
     )
 st.divider()
-st.caption("Built by YOUR NAME | [GitHub](https://github.com/MOHAMMED-ZAKIR-AHMED/) | [LinkedIn](https://www.linkedin.com/in/zakir00)")
+st.caption("Built by ZAKIR AHMED | [GitHub](https://github.com/MOHAMMED-ZAKIR-AHMED/) | [LinkedIn](https://www.linkedin.com/in/zakir00)")
