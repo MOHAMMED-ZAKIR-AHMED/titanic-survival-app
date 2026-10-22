@@ -25,7 +25,7 @@ with st.sidebar:
     st.write("This app uses a **Logistic Regression** model trained on the "
              "Titanic dataset to predict whether a passenger would have survived.")
     st.write("Built with Python, scikit-learn and Streamlit.")
-    st.caption("Made by YOUR NAME")
+    st.caption("Built by ZAKIR AHMED")
 
 # ---------- Title and inputs ----------
 st.title("🚢 Titanic Survival Predictor")
@@ -138,3 +138,5 @@ with tab2:
           purposes, not a perfect predictor.
         """
     )
+st.divider()
+st.caption("Built by YOUR NAME | [GitHub](https://github.com/MOHAMMED-ZAKIR-AHMED/) | [LinkedIn](https://www.linkedin.com/in/zakir00)")
